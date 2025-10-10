@@ -1,4 +1,4 @@
 # dcml2526
-COde Repository for DCML 25-26 @ UNIFI
+Code Repository for DCML 25-26 @ UNIFI
 
-Hi I hope you are having fun and not falling asleep
+Here we will put all the code we develop during labs with Tommaso
